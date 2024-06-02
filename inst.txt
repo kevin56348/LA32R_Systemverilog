@@ -1,0 +1,8 @@
+
+main:     file format elf32-loongarch
+
+
+Disassembly of section .text:
+
+00010054 <_start>:
+   10054:	02800001 	addi.w	$r1,$r0,0
